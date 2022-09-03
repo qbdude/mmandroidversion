@@ -1,6 +1,6 @@
 {
   "jtammdata": [{
   "version": "1.11.1",
-  "message": "New version available on Google Play"
+  "message": "Hello. New version available on Google Play"
   },]
  }
