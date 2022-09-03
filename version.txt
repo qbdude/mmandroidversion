@@ -1,6 +1,6 @@
 {
   "jtammdata": [{
-  "version": "1.11.1",
-  "message": "Hello. New version available on Google Play"
+  "version": "1.12.4.Thank.You",
+  "message": "Hello. Thank you for downloading or updating JTA Money Manager."
   },]
  }
