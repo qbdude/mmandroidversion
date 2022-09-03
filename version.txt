@@ -1,1 +1,6 @@
-1.11.1
+{
+  "jtammdata": [{
+  "version": "1.11.1",
+  "message": "New version available on Google Play"
+  },]
+ }
