@@ -1,6 +1,6 @@
 {
   "jtammdata": [{
-  "version": "1.12.4.Thank.You",
+  "version": "1.16.0.Thank.You",
   "date": "09.04.2023 07:57",
   "message": "Hello. Regularly back up your data and create a backup before updating the app to avoid potential loss or damage."
   },]
