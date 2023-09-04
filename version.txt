@@ -1,7 +1,7 @@
 {
   "jtammdata": [{
   "version": "1.16.0.Thank.You",
-  "date": "09.04.2023 07:57",
+  "date": "09.04.2023 07.57",
   "message": Thank you for downloading JTA Money Manager. We are thrilled to have you on board."
   },]
  }
