@@ -2,8 +2,6 @@
   "jtammdata": [{
   "version": "1.16.0.Thank.You",
   "date": "09.04.2023 07:57",
-  "message1": Thank you for downloading JTA Money Manager. We are thrilled to have you on board.",
-  "message2": "Happy budgeting and money management!",
-"message3": "Regularly back up your data and create a backup before updating the app to avoid potential loss or damage."
+  "message1": Thank you for downloading JTA Money Manager. We are thrilled to have you on board."
   },]
  }
